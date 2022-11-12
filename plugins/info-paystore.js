@@ -30,16 +30,16 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Pulsa:* [085172446692]
-• *Dana:* [085172446692]
-• *Ovo:* [085172446692]
+• *Pulsa:* [0895343077003]
+• *Dana:* [089502022702]
+• *Ovo:* [08987282047]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
+💬: Kamu Nanyak harganya mahal banget ? tawar ownernya aja
 
 🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+💬: Enggaklah, Makanya Join Live Aku Sekarang Yah
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `
